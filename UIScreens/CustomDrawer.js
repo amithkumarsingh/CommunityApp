@@ -18,6 +18,7 @@ const CustomDrawer = (props) => {
     const communityIcon = require('./ImageAssets/community3.png');
     const star = require('./ImageAssets/star.png')
 
+
     // useEffect(() => {
     //     const fetchCommList = async () => {
     //         if (Utils.isLoadCommunityList) {
